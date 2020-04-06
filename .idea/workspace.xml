@@ -2,13 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9ab83da-a1b6-4a7a-972b-c34ec30e871a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/options_wrangler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/test_wrangler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/model-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/.ipynb_checkpoints/modeling_and_outpus-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/modeling_and_outpus.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.ipynb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Paul.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.ipynb_checkpoints/data_cleaning-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.ipynb_checkpoints/modeling_and_outputs-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/WTI_Oil.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/civilian_labor_force.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/crude-oil-futures.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/expos.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/midland_employee_total_count.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/midland_mining_employment_thousands_of_people_per_year.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/more futures.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/unemployment_rate_midland_tx_by_year.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/uso.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/ytm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/csv_data/ytw.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/TLT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/WTI_Oil.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/YieldGraphExport.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/YieldToWorstGraphExport.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/all_employees.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/civilian_labor_force.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/crude-oil-futures.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/gender_demographics_midland.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/midland_mining_employment.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/more futures.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/unemployment_midland.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data/~$all_employees.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/data_cleaning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/modeling_and_outputs.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/options_wrangler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/test_wrangler.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,31 +45,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/options_wrangler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/test_wrangler.py">
+        <entry file="file://$PROJECT_DIR$/shatterproofing_code/test_wrangler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="159">
+              <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
               <folding>
-                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shatterproofing_code/options_wrangler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="27" column="82" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="82" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -53,6 +76,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>raw_data</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -61,25 +89,17 @@
       <list>
         <option value="$PROJECT_DIR$/code/__init__.py" />
         <option value="$PROJECT_DIR$/code/tests.py" />
-        <option value="$PROJECT_DIR$/code/test_wrangler.py" />
         <option value="$PROJECT_DIR$/code/options_wrangler.py" />
+        <option value="$PROJECT_DIR$/code/test_wrangler.py" />
+        <option value="$PROJECT_DIR$/shatterproofing_code/options_wrangler.py" />
+        <option value="$PROJECT_DIR$/shatterproofing_code/test_wrangler.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/isf_shatterproofing.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1300" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1272" />
+    <option name="width" value="1297" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -97,13 +117,7 @@
             <path>
               <item name="isf_shatterproofing" type="b2602c69:ProjectViewProjectNode" />
               <item name="isf_shatterproofing" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isf_shatterproofing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isf_shatterproofing" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="csv_data" type="462c0819:PsiDirectoryNode" />
+              <item name="shatterproofing_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,6 +126,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -135,30 +150,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for code.test_wrangler.test_takes_in_dataframe">
-    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="isf_shatterproofing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Paul\Desktop\isf_shatterproofing\code\test_wrangler.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for code.test_wrangler.test_takes_in_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for shatterproofing_code.test_wrangler.test_get_expo_chain">
+    <configuration name="pytest for code.test_wrangler.test_get_expo_chain" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="isf_shatterproofing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +163,23 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;code.test_wrangler.test_takes_in_data&quot;" />
+      <option name="_new_target" value="&quot;code.test_wrangler.test_get_expo_chain&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for code.test_wrangler.test_takes_in_data_location" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="isf_shatterproofing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;code.test_wrangler.test_takes_in_data_location&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -190,28 +199,45 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_wrangler.test_takes_in_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for code.test_wrangler.test_throws_error_on_bad_type" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="isf_shatterproofing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wrangler.test_takes_in_data&quot;" />
+      <option name="_new_target" value="&quot;code.test_wrangler.test_throws_error_on_bad_type&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="isf_shatterproofing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;shatterproofing_code.test_wrangler.test_get_expo_chain&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" />
+        <item itemvalue="Python tests.pytest for code.test_wrangler.test_get_expo_chain" />
+        <item itemvalue="Python tests.pytest for code.test_wrangler.test_takes_in_data_location" />
+        <item itemvalue="Python tests.pytest for code.test_wrangler.test_throws_error_on_bad_type" />
         <item itemvalue="Python tests.pytest for code.test_wrangler.test_takes_in_dataframe" />
-        <item itemvalue="Python tests.pytest for code.test_wrangler.test_takes_in_data" />
-        <item itemvalue="Python tests.pytest for test_wrangler.test_takes_in_data" />
-        <item itemvalue="Python.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -225,66 +251,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586023724639</updated>
-      <workItem from="1586023725807" duration="2188000" />
+      <workItem from="1586023725807" duration="5661000" />
+      <workItem from="1586185879126" duration="4267000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_wrangler_test_takes_in_data - 2020.04.04 at 11h 24m 39s.xml">
-      <configuration name="pytest for test_wrangler.test_takes_in_data" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 29m 51s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_data - 2020.04.04 at 11h 24m 59s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_data" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 37m 39s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_data - 2020.04.04 at 11h 25m 39s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_data" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 40m 11s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_data - 2020.04.04 at 11h 26m 36s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_data" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 40m 16s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_data - 2020.04.04 at 11h 27m 36s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_data" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 44m 19s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_data - 2020.04.04 at 11h 28m 04s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_data" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 45m 25s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_dataframe - 2020.04.04 at 11h 30m 24s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_dataframe" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 47m 31s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_code_test_wrangler_test_takes_in_dataframe - 2020.04.04 at 11h 30m 36s.xml">
-      <configuration name="pytest for code.test_wrangler.test_takes_in_dataframe" configurationId="tests" />
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 48m 44s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 08h 48m 49s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain - 2020.04.06 at 12h 47m 05s.xml">
+      <configuration name="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2188000" />
+    <option name="totallyTimeSpent" value="9928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="878" extended-state="6" />
+    <frame x="1018" y="0" width="1037" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12225549" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2553626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.078580484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49560854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32984033" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,28 +325,112 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/isf_shatterproofing$tests.coverage" NAME="tests Coverage Results" MODIFIED="1586024512000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_code_test_wrangler_test_throws_error_on_bad_type.coverage" NAME="pytest for code.test_wrangler.test_throws_error_on_bad_type Coverage Results" MODIFIED="1586026423153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_code_test_wrangler_test_takes_in_data_location.coverage" NAME="pytest for code.test_wrangler.test_takes_in_data_location Coverage Results" MODIFIED="1586185691908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_code_test_wrangler_test_get_expo_chain.coverage" NAME="pytest for code.test_wrangler.test_get_expo_chain Coverage Results" MODIFIED="1586185718640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_code_test_wrangler_test_takes_in_data.coverage" NAME="pytest for code.test_wrangler.test_takes_in_data Coverage Results" MODIFIED="1586024882186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_shatterproofing_code_test_wrangler_test_get_expo_chain.coverage" NAME="pytest for shatterproofing_code.test_wrangler.test_get_expo_chain Coverage Results" MODIFIED="1586202422439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_test_wrangler_test_takes_in_data.coverage" NAME="pytest for test_wrangler.test_takes_in_data Coverage Results" MODIFIED="1586024677495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_code_test_wrangler_test_takes_in_dataframe.coverage" NAME="pytest for code.test_wrangler.test_takes_in_dataframe Coverage Results" MODIFIED="1586025034474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/isf_shatterproofing$pytest_for_code_test_wrangler_test_takes_in_dataframe.coverage" NAME="pytest for code.test_wrangler.test_takes_in_dataframe Coverage Results" MODIFIED="1586026246319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.data.index.get_level_values('expirDate').values</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.data.index.get_level_values('expirDate')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.data.get_index_value('expirDate')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.data.get_index_values('expirDate')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>5.0 in april_chain['strike'].values</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>april_chain['strike'].isin(5.0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>5.0 in april_chain['strike']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>april_chain['strike']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>april_chain.index.get_level_values('strike')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/options_wrangler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/code/test_wrangler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="299">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/options_wrangler.py">
+    <entry file="file://E:/Anaconda/Lib/site-packages/_pytest/vendored_packages/pluggy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="125">
+          <caret line="613" selection-start-line="613" selection-end-line="613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shatterproofing_code/test_wrangler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shatterproofing_code/options_wrangler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="27" column="82" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="82" />
         </state>
       </provider>
     </entry>
