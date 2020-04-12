@@ -31,10 +31,12 @@ class OptionsWrangler:
 
         return raw_chain.reset_index('strike')
 
-    def get_option_value_by_strike(self, strike, side, *, trade_date=None, expo=None, chain=pd.DataFrame()):
+    def get_option_value_by_strike(self, strike, side, *, trade_date=None, expiration=None, chain=pd.DataFrame()):
         # supports getting exactly the option or getting the chain from memory
         if chain.empty:
-            chain = self.get_expo_chain(trade_date=trade_date, expiration=expo)
+            chain = self.no_chain_checks(trade_date, expiration)
+        else:
+            chain_checks(chain)
         assert strike in chain['strike'].values, "Strike not available in chain."
         strike_query = f"strike == {strike}"
         chain_row = chain.query(strike_query)
@@ -49,9 +51,9 @@ class OptionsWrangler:
         # supports getting exactly the option or getting the chain then the option if given a trade_date and expo
         assert 0 < delta < 1, "Delta not bounded by zero or one."
         if chain.empty:
-            if not expiration:
-                raise TypeError("Expo can not be None with no chain given.")
-            chain = self.get_expo_chain(trade_date=trade_date, expiration=expiration)
+            chain = self.no_chain_checks(trade_date, expiration)
+        else:
+            chain_checks(chain)
         if side in ["call", "c"]:
             chain_row = chain.iloc[(chain['delta'] - delta).abs().argsort()[:1]]
             return chain_row['cValue'].values
@@ -73,21 +75,34 @@ class OptionsWrangler:
         else:
             raise NameError(f"Unsupported side type. Got {side}, expected one of: call, c, put, p.")
 
+    def get_option_value_by_price(self, price, side, *, trade_date=None, expiration=None, chain=pd.DataFrame()):
+        # supports getting exactly the option or getting the chain then the option if given a trade_date and expo
+        assert 0 < price, "Price less than one."
+        if chain.empty:
+            chain = self.no_chain_checks(trade_date, expiration)
+        else:
+            chain_checks(chain)
+
+        if side in ["call", "c"]:
+            chain_row = chain.query(f'cValue < {price}').sort_values('cValue', ascending=False)
+            return chain_row[['strike', 'stkPx', 'cValue', 'cOi']].iloc[0]
+        elif side in ["put", "p"]:
+            chain_row = chain.query(f'pValue < {price}').sort_values('pValue', ascending=False)
+            return chain_row[['strike', 'stkPx', 'pValue', 'pOi']].iloc[0]
+
+        else:
+            raise NameError(f"Unsupported side type. Got {side}, expected one of: call, c, put, p.")
+
+    def no_chain_checks(self, trade_date, expiration):
+        if not expiration:
+            raise TypeError("Expo can not be None with no chain given.")
+        return self.get_expo_chain(trade_date=trade_date, expiration=expiration)
 
 
-# wrangler.get_option_history(strike, expo, dtarting_trade_date) # throws no such option, not in dataset
+def chain_checks(chain):
+    if len(pd.unique(chain.reset_index()['expirDate'])) > 1:
+        raise TypeError("Can't have more than one expiration in passed through chain.")
 
 
-# wrangler.get_days_historical_chain() # throws not in data set
 
-# gets the implied volatility for trade date and month, returns the smile data
 # wrangler.get_imp_vol(expo, trade_date)
-
-
-# wrangler.get_call_value(expo, trade_date, strike) # throws not in dataset
-
-
-# wrangler.get_put_value(expo, trade_date, strike) # throws not in dataset
-
-
-# wrangler.get_market(expo, trade_date, strike) # throws not in dataset
