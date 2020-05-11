@@ -1,7 +1,7 @@
 # Shatterproofing
 For all ISF coding work done in pursuit of Rory Gwozdz's final thesis. 
 
-code/ contains:
+shatterproofing_code/ contains:
 
     1. data, in it's raw from, direct from source.
     2. csv_data, with relevant CSV data cleaned. 
